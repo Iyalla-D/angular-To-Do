@@ -1,3 +1,11 @@
-# angular-ivy-j3rfma
+# Frontend
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-j3rfma)
+This project serve the frontend for the Task Manager
+
+## Install
+
+To install run `npm install`
+
+## Launch
+
+To launch run `ng serve`
